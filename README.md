@@ -14,7 +14,7 @@
 ### Code and Resources Used:
 - **Python Version:** 3.8
 - **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
-- [**Dataset:**] (https://github.com/PrachiPatel15/PricePrediction/blob/main/House_prices.csv)
+- **Dataset:**(https://github.com/PrachiPatel15/PricePrediction/blob/main/House_prices.csv)
 
 ### Data CLeaning
 >After getting the data, I needed to clean it up so that it can be usable for our model. I made the following changes and created the following variables:

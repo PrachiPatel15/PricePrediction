@@ -31,7 +31,8 @@
 In this, any 'location' having less than 10 data points should be tagged as "other" location. This way number of categories can be reduced by huge amount.
 
 ### Outlier Removal
->!Here we've used some bussiness logic to remove the outliers. What we've done is shown in the below images:(https://github.com/PrachiPatel15/PricePrediction/blob/main/Rajaji_Nagar(outlier).png)
+>![Here we've used some bussiness logic to remove the outliers. What we've done is shown in the below images:](https://github.com/PrachiPatel15/PricePrediction/blob/main/Rajaji_Nagar(outlier).png)
+
 By using some bussiness logic we can have the idea of how we can remove the outliers
 
 ### Model Building
